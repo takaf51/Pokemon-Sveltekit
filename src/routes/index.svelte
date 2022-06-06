@@ -34,7 +34,7 @@
       selectedPokemonNum ++;
     if(e.detail.type === 'prev' && 1 < selectedPokemonNum)
       selectedPokemonNum --;
-  }S
+  }
 </script>
 
 <div class='w-full'>
